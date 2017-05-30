@@ -19,9 +19,10 @@ Docs are in the `source` directory
 ### Running
 
 ```shell
+cd <docs_directory>
+
 # either run this to run locally 
 # static files will be in build directory
-cd <docs_directory>
 bundle install
 bundle exec middleman server
 
