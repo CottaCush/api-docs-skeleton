@@ -1,6 +1,7 @@
 {
   "name": "cottacush/api-docs-skeleton",
   "description": "Skeleton for API docs",
+  "version": "1.0.0",
   "keywords": [
     "slate",
     "api",
