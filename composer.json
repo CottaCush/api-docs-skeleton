@@ -1,0 +1,28 @@
+{
+  "name": "cottacush/api-docs-skeleton",
+  "description": "Skeleton for API docs",
+  "keywords": [
+    "slate",
+    "api",
+    "docs"
+  ],
+  "type": "project",
+  "license": "Apache-2.0",
+  "minimum-stability": "stable",
+  "require": {
+  },
+  "require-dev": {
+  },
+  "config": {
+    "process-timeout": 1800,
+    "discard-changes": true
+  },
+  "authors": [
+    {
+      "name": "Adeyemi Olaoye",
+      "email": "yemi@cottacush.com",
+      "homepage": "https://adeyemiolaoye.me",
+      "role": "Software Engineer"
+    }
+  ]
+}
